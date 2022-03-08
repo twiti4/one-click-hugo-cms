@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: username/repository
+  repo: twiti4/one-click-hugo-cms
   branch: master
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
